@@ -6,7 +6,7 @@
 
 <!-- 引入背景音乐 -->
 <audio id="background-music" loop muted autoplay>
-  <source src="Always-Online.mp3" type="audio/mpeg">
+  <source src="Always Online.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
